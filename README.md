@@ -15,5 +15,8 @@ To run, type `java -jar jewelthief.jar`. Downloaded objects will be saved in the
 
 ###License
 
-The contents of this repository are released under the Creative Commons CC0 1.0 (public domain) license. See the LICENSE file, or <http://creativecommons.org/publicdomain/zero/1.0/>, for details.
+The contents of this repository are released under the [Creative Commons CC0 1.0](http://creativecommons.org/publicdomain/zero/1.0) (public domain) license. See the LICENSE file for details.
 
+###Thanks
+
+Thanks to the [Tango Desktop Project](http://tango.freedesktop.org/Tango_Desktop_Project) and the [Open Clipart Library](http://openclipart.org/about) for public-domain icons.
